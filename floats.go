@@ -1,4 +1,4 @@
-package datafile1
+package datafile2
 
 import (
 	"bufio"
